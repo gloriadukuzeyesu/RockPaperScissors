@@ -28,7 +28,7 @@ A simple Rock paper scissors game.  A player user plays against the computer pla
 
    
 
-   <img src="image/rpsGame.png" alt="Screen Shot 2023-01-05 at 1.33.53 AM" style="zoom:45%;" />
+   <img src="image/rpsGame.png" alt="Screen Shot 2023-01-05 at 1.33.53 AM" style="zoom:33%;" />
 
    
 
