@@ -32,7 +32,7 @@ A simple Rock paper scissors game.  A player user plays against the computer pla
 
    
 
-   ## *I hope you enjoy my simple rock paper scissor game.* 
+   ## *I hope you enjoy my simple Rock Paper Scissors game.* 
 
    
 
